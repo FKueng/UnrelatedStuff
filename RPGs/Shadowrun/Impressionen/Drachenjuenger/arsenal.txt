@@ -100,6 +100,8 @@
 [tr][td=25,white]B026[/td][td=200,white]Überlebensmesser[/td][td=25,white]KW[/td][td=500,white]-[/td][/tr]
 [tr][td=25,white]B027[/td][td=200,white]Überlebensmesser[/td][td=25,white]KW[/td][td=500,white]-[/td][/tr]
 [tr][td=25,white]B028[/td][td=200,white]Überlebensmesser[/td][td=25,white]KW[/td][td=500,white]-[/td][/tr]
+[tr][td=25,white]B029[/td][td=200,white]Granate: Spreng[/td][td=25,white]KW[/td][td=500,white]Anzahl: 6[/td][/tr]
+[/table]
 //
 [b]Munition:[/b]
 //
