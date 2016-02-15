@@ -1,0 +1,40 @@
+[quote][06.02.2075]
+
+Anbei das Template für die Dienstakten:
+[code][table=596,1][tr][td=392,white][size=150][b]Saeder Krupp Prime[/b][/size]
+[b]Personalakte[/b]
+
+[b]Name:[/b] Mustermann
+[b]Vorname(en):[/b] Max
+[b]Rang:[/b] Gefreiter 
+
+[b]Metatypus (ggf. SURGE):[/b] Homo Sapiens Sapiens
+[b]Geschlecht:[/b] männlich
+[b]Geboren am:[/b] 1. Apr. 2044
+[b]Geboren in:[/b] Bielefeld
+[b]SIN:[/b] SK-BF-TA-123456
+
+[b]Erwacht:[/b] Ja, Adept
+[b]Familienstand:[/b] ledig[/td][td=204,white][rimg width=204 height=267] https://jsaarau.files.wordpress.com/2011/10/platzhalter_bild.jpg [/rimg][/td][/tr][tr][/table]
+[table=800,1][td=596,white][b]Curiculum Vitae[/b][/td][td=204,white][b]Abzeichen[/b][/td][/tr][tr][td=596,white][b]Herkunft[/b]
+[i]Mutter:[/i] Julia Mustermann (SK-Bürgerin)
+[i]Vater:[/i] John Doe (SK-Bürger)
+[i]Geschwister:[/i] Jane, Doe (SK-Bürgerin)
+
+[b]Kindheit und Jugend[/b]
+[i]2054[/i] Eintritt bei den SK-Globetrottern
+[i]2060[/i] Erwachen
+
+[b]Beruflicher Werdegang[/b]
+[i]2062[/i] Grundausbildung in der Karen Monetjac Kaserne Essen [Rang: Soldat]
+[i]2063[/i] Versetzung zu Logistik
+[i]2074[/i] Operation „Hahnenschrei“ (erfolgreich abgeschlossen) [Beförderung: Gefreiter][/td][td=204,white][b]Rangabzeichen:[/b]
+[img] https://raw.githubusercontent.com/FKueng/UnrelatedStuff/master/RPGs/Shadowrun/pics/rank_tags/gefreiter_tag.jpg [/img]
+[b]Ausbildingsabzeichen:[/b]
+[img] https://raw.githubusercontent.com/FKueng/UnrelatedStuff/master/RPGs/Shadowrun/pics/grundausbildung_tag.jpg [/img][/td][/tr][/table][/code]
+
+Mit freundlichen Grüßen,
+Oberfeldwebel A. D. Lakeman
+
+PS: Granaten wurden ins Arsenal aufgenommen. Danke!
+[/quote]
