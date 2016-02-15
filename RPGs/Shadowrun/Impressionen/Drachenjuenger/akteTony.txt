@@ -1,0 +1,40 @@
+[table=596,1][tr][td=392,white][size=150][b]Saeder Krupp Prime[/b][/size]
+[b]Personalakte[/b]
+
+[b]Name:[/b] Lakeman
+[b]Vorname(en):[/b] Anthony, Daniel 
+[b]Rang:[/b] Oberfeldwebel 
+
+[b]Metatypus (ggf. SURGE):[/b] Homo Sapiens Sapiens
+[b]Geschlecht:[/b] männlich
+[b]Geboren am:[/b] 23. Apr. 2050
+[b]Geboren in:[/b] Essen
+[b]SIN:[/b] SK-NE-LT-7342-1747
+
+[b]Erwacht:[/b] nein
+[b]Familienstand:[/b] ledig[/td][td=204,white][rimg width=204 height=267]https://raw.githubusercontent.com/FKueng/UnrelatedStuff/7909ad3fb95fa2a8d0aff59193fb577672f6865a/RPGs/Shadowrun/pics/Anthony.jpg[/rimg][/td][/tr][tr][/table]
+[table=800,1][td=596,white][b]Curiculum Vitae[/b][/td][td=204,white][b]Abzeichen[/b][/td][/tr][tr][td=596,white][b]Herkunft[/b]
+[i]Mutter:[/i] Sarah Lakeman (SK-Bürgerin)
+[i]Vater:[/i] Michael Lakeman (SK-Bürger)
+[i]Geschwister:[/i] Lakeman, Conner (SK-Bürger [SKP])
+
+[b]Kindheit und Jugend[/b]
+[i]2056[/i] Hat miterlebt wie sein Bruder (C. Lakeman) im Zuge einer Sicherheitsüberschreitung angeschossen wurde
+[i]2058[/i] Eintritt bei den SK-Globetrottern
+[i]2061[/i] Hat SURGE-verwandlung von F. Castello in der Nacht des Kometen miterlebt
+[i]2064[/i] Verlust des Freundes Jakob Haloni durch Crash 2.0
+
+[b]Beruflicher Werdegang[/b]
+[i]2068[/i] Grundausbildung in der Karen Monetjac Kaserne Essen
+[i]2069[/i] Offiziersausbilding in der Lofwyr Akademie für militärstrategische Ausbildung [Gefreiter]
+[i]2069[/i] Wachdienst in NYC, abwehr feindlichen Kräfte in der Lobby der arkologie [Beförderung: Hauptgefreiter]
+[i]2070[/i] Versetzung zu Saeder Krupp Alpha Team 
+[i]2070[/i] Operation „Heiliger Grahl“ (erfolgreich abgeschlossen) 
+[i]2070[/i] Operation „Bruderschaftskuss“ (erfolgreich abgeschlossen) [Beförderung: Feldwebel]
+[i]2070[/i] Operation „Alles Käse“ (erfolgreich abgeschlossen) 
+[i]2070[/i] Operation „Ritt der Walküre“ (Einsatz abgebrochen) [Beförderung: Oberfeldwebel]
+[i]2071[/i] Klärung eines Zwischenfalls in der Arkologie Essen[/td][td=204,white][b]Rangabzeichen:[/b]
+[img]https://github.com/FKueng/UnrelatedStuff/blob/b1490c9345a89c6951994704ca0791653fcfbd54/RPGs/Shadowrun/pics/rank_tags/oberfeldwebel_tag.jpg?raw=true[/img]
+[b]Ausbildingsabzeichen:[/b]
+[img]https://raw.githubusercontent.com/FKueng/UnrelatedStuff/master/RPGs/Shadowrun/pics/grundausbildung_tag.jpg[/img]
+[img]https://raw.githubusercontent.com/FKueng/UnrelatedStuff/master/RPGs/Shadowrun/pics/TagLama_tag.jpg[/img][/td][/tr][/table]
