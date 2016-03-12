@@ -1,0 +1,36 @@
+# Illarion Server
+# 
+# This program is free software: you can redistribute it and/or modify it under
+# the terms of the GNU Affero General Public License as published by the Free
+# Software Foundation, either version 3 of the License, or (at your option) any
+# later version.
+# 
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
+# details.
+# 
+# You should have received a copy of the GNU Affero General Public License along
+# with this program.  If not, see <http://www.gnu.org/licenses/>.
+258;8;401;145;0
+213;95;355;227;0
+254;101;395;236;0
+164;119;305;255;0
+164;120;305;256;0
+164;121;305;257;0
+165;123;308;260;0
+166;123;309;260;0
+271;132;414;270;0
+258;136;399;271;0
+275;157;416;291;0
+282;160;425;290;2
+283;160;425;290;2
+223;206;365;343;0
+224;206;366;343;0
+225;206;367;343;0
+279;217;422;354;0
+176;242;318;378;2
+52;284;193;411;0
+268;296;411;431;0
+226;335;367;480;0
+232;341;385;461;2
