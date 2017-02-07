@@ -1,11 +1,11 @@
 characters = cell(26,3);
-statPos = [1 2 6];
+statPos = [1 2 6 4];
 types = [1 2 3 4 5 6 7 14];
-typeNames = {'1 Handed Slashing' '1 Handed Blunt' '1 Handed Stabbing' '2 Handed Slashing' '2 Handed Blunt' '2 Handed Stabbing' 'Bows' 
+typeNames = {'1 Handed Slashing' '1 Handed Blunt' '1 Handed Stabbing' '2 Handed Slashing' '2 Handed Blunt' '2 Handed Stabbing' 'Bows' 'Shields'};
 [dimension,~] = size(weaponsCell);
 dpaByAttributes = cell(8,3);
 
-for kindOfStat = 1:3
+for kindOfStat = 1:4
 stats = [10 10 10 10 10 10 10 10];
     for whatKind = 1:length(types)
         dpa = zeros(10,26);
@@ -17,10 +17,10 @@ stats = [10 10 10 10 10 10 10 10];
                     if rem(weaponLevel,2) == 0
                     stats(statPos(kindOfStat)) = valueOfStat;
                     attacker = charakterGeneration(stats, [weaponLevel 0 0]);
-                    
+                    actionPoints = max(7, weaponsCell{placeOfWeapon,2}.wp_actionpoints * (100- attacker.attributes.agility-6)*2.5)/100);
+%                    actionPoints = max(7, weaponsCell{placeOfWeapon,2}.wp_actionpoints / attacker.attributes.agility);
                     dpa(weaponLevel/10+1,valueOfStat) = standardfighting_CalculateDamage(attacker,weaponsCell{placeOfWeapon,2})...
-                        ./weaponsCell{placeOfWeapon,2}.wp_actionpoints.*...
-                        (min(95,weaponsCell{placeOfWeapon,2}.wp_accuracy)/100);
+                        .*(min(95,weaponsCell{placeOfWeapon,2}.wp_accuracy)/100)./actionPoints;
                     end
                 end
             end
@@ -31,9 +31,9 @@ end
 
 x = 0:10:100;
 y = 1:26;
-attributes = {'Strength' 'Dexterity' 'Perception'};
+attributes = {'Strength' 'Dexterity' 'Perception' 'Agility'};
 
-for kindOfStat = 1:3
+for kindOfStat = 1:4
     figure;
     for whatKind = 1:length(types)
         subplot(2,4,whatKind);
@@ -41,8 +41,8 @@ for kindOfStat = 1:3
         xlabel('Level')
         ylabel(attributes{kindOfStat});
         zlabel('Damage/Actionpoint');
-        title(strcat('Weapon Type ', num2str(types(whatKind))));
-        axis([0 100 1 26 0 200]);
+        title(typeNames{whatKind});
+      %  axis([0 100 1 26 0 250]);
     end
     
 end
