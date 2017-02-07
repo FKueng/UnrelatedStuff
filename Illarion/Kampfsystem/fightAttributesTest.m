@@ -17,8 +17,9 @@ stats = [10 10 10 10 10 10 10 10];
                     if rem(weaponLevel,2) == 0
                     stats(statPos(kindOfStat)) = valueOfStat;
                     attacker = charakterGeneration(stats, [weaponLevel 0 0]);
-                    actionPoints = max(7, weaponsCell{placeOfWeapon,2}.wp_actionpoints * (100- (attacker.attributes.agility-6)*2.5)/100);
-%                    actionPoints = max(7, weaponsCell{placeOfWeapon,2}.wp_actionpoints / attacker.attributes.agility);
+      %              actionPoints = max(7, weaponsCell{placeOfWeapon,2}.wp_actionpoints * (100- (attacker.attributes.agility-6)*2.5)/100);
+                    actionPoints = max(7, weaponsCell{placeOfWeapon,2}.wp_actionpoints / ...
+                    min(1+2*0.2, (1-0.2) + 0.2 * (attacker.attributes.agility / 10)));
                     dpa(weaponLevel/10+1,valueOfStat) = standardfighting_CalculateDamage(attacker,weaponsCell{placeOfWeapon,2})...
                         .*(min(95,weaponsCell{placeOfWeapon,2}.wp_accuracy)/100)./actionPoints;
                     end
