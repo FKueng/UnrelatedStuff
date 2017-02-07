@@ -1,4 +1,4 @@
-function [ damage ] = standardfighting_CalculateDamage( charakter, weapon, skill )
+function [ damage ] = standardfighting_CalculateDamage( charakter, weapon)
 %STANDARDFIGHTING_CALCULATEDAMAGE Summary of this function goes here
 %   Detailed explanation goes here
 % Missing is the chance for a real crit with CritBonus = 1.5. This will be
@@ -8,8 +8,8 @@ function [ damage ] = standardfighting_CalculateDamage( charakter, weapon, skill
     StrengthBonus = (charakter.attributes.strength - 6)*3;
     PerceptionBonus = (charakter.attributes.perception - 6)*1;
     DexterityBonus = (charakter.attributes.dexterity - 6)*1;
-%    SkillBonus = (charakter.skills.attackSkill - 20)*1.5;
-    SkillBonus = (skill - 20)*1.5;
+    SkillBonus = (charakter.skills.attackSkill - 20)*1.5;
+%    SkillBonus = (skill - 20)*1.5;
     CritBonus=1;
     QualityBonus = 0.91 + 0.02*floor(999/100);
     GemBonus = 0;
