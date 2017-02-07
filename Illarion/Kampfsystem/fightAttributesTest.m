@@ -1,6 +1,7 @@
 characters = cell(26,3);
 statPos = [1 2 6];
 types = [1 2 3 4 5 6 7 14];
+typeNames = {'1 Handed Slashing' '1 Handed Blunt' '1 Handed Stabbing' '2 Handed Slashing' '2 Handed Blunt' '2 Handed Stabbing' 'Bows' 'Shields'};
 [dimension,~] = size(weaponsCell);
 dpaByAttributes = cell(8,3);
 
@@ -40,7 +41,7 @@ for kindOfStat = 1:3
         xlabel('Level')
         ylabel(attributes{kindOfStat});
         zlabel('Damage/Actionpoint');
-        title(strcat('Weapon Type ', num2str(types(whatKind))));
+        title(typeNames{whatKind});
         axis([0 100 1 26 0 200]);
     end
     
