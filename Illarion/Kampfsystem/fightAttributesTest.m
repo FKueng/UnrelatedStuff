@@ -1,0 +1,47 @@
+characters = cell(26,3);
+statPos = [1 2 6];
+types = [1 2 3 4 5 6 7 14];
+[dimension,~] = size(weaponsCell);
+dpaByAttributes = cell(8,3);
+
+for kindOfStat = 1:3
+stats = [10 10 10 10 10 10 10 10];
+    for whatKind = 1:length(types)
+        dpa = zeros(10,26);
+        currentType = types(whatKind);    
+        for placeOfWeapon=1:dimension
+            if weaponsCell{placeOfWeapon,2}.wp_weapontype == currentType
+                for valueOfStat = 1:26
+                    weaponLevel = weaponsCell{placeOfWeapon,2}.level;
+                    if rem(weaponLevel,2) == 0
+                    stats(statPos(kindOfStat)) = valueOfStat;
+                    attacker = charakterGeneration(stats, [weaponLevel 0 0]);
+                    
+                    dpa(weaponLevel/10+1,valueOfStat) = standardfighting_CalculateDamage(attacker,weaponsCell{placeOfWeapon,2})...
+                        ./weaponsCell{placeOfWeapon,2}.wp_actionpoints.*...
+                        (min(95,weaponsCell{placeOfWeapon,2}.wp_accuracy)/100);
+                    end
+                end
+            end
+        end
+        dpaByAttributes{whatKind,kindOfStat} = dpa;
+    end
+end
+
+x = 0:10:100;
+y = 1:26;
+attributes = {'Strength' 'Dexterity' 'Perception'};
+
+for kindOfStat = 1:3
+    figure;
+    for whatKind = 1:length(types)
+        subplot(2,4,whatKind);
+        surf(x,y,dpaByAttributes{whatKind,kindOfStat}');
+        xlabel('Level')
+        ylabel(attributes{kindOfStat});
+        zlabel('Damage/Actionpoint');
+        title(strcat('Weapon Type ', num2str(types(whatKind))));
+        axis([0 100 1 26 0 200]);
+    end
+    
+end
