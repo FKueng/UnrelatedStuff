@@ -1,0 +1,74 @@
+\documentclass[]{standalone}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{calc}
+\usepackage{graphicx}
+
+
+\def\cam[#1,#2,#3,#4] at (#5,#6){
+\node[inner sep=0pt] at (#5,#6) {\includegraphics[scale = #4]{graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_#3}};
+\node[inner sep=0pt] at (#5,#6) {\includegraphics[scale = #4]{graphics/Kamera/256/#1/Kamera_#1_#2}}
+}
+\def\magBarr[#1,#2,#3] at (#4,#5){
+\node[inner sep=0pt] at (#4,#5) {\includegraphics[scale = #3]{graphics/Magische_Barriere/256/#1/Magische_Barriere_#1_S#2}}
+}
+
+\def\MLCard[#1,#2,#3] at (#4,#5){
+\node[inner sep=0pt] at (#4,#5) {\includegraphics[scale = #3]{graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S#1A#2}}
+}
+\def\MLRFID[#1,#2,#3] at (#4,#5){
+	\node[inner sep=0pt] at (#4,#5) {\includegraphics[scale = #3]{graphics/Magschloss_RFID/256/Magschloss_RFID_S#1A#2}}
+}
+\def\MLDNA[#1,#2,#3] at (#4,#5){
+	\node[inner sep=0pt] at (#4,#5) {\includegraphics[scale = #3]{graphics/Magschloss_DNA/256/Magschloss_DNA-Scanner_S#1A#2}}
+}
+\def\MLPad[#1,#2,#3] at (#4,#5){
+	\node[inner sep=0pt] at (#4,#5) {\includegraphics[scale = #3]{graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S#1A#2}}
+}
+\def\MLBio[#1,#2,#3,#4] at (#5,#6){
+	\node[inner sep=0pt] at (#5,#6) {\includegraphics[scale = #4]{graphics/Magschloss_Biometrisch/256/#3/Magschloss_Biometrisch_#3_S#1A#2}}
+}
+\def\Scanner[#1,#2,#3] at (#4,#5){
+	\node[inner sep=0pt] at (#4,#5) {\includegraphics[scale = #3]{graphics/Scanner/256/#2/Scanner_#2_S#1}}
+}
+\def\Lock[#1,#2] at (#3,#4){
+	\node[inner sep=0pt] at (#3,#4) {\includegraphics[scale = #2]{graphics/Schloss/256/Schloss_S#1}}
+}
+\def\LockT[#1,#2] at (#3,#4){
+	\node[inner sep=0pt] at (#3,#4) {\includegraphics[scale = #2]{graphics/Schloss_Transponderschluessel/256/Schloss_Transponderschluessel_S#1}}
+}
+\def\SicherheitV[#1,#2] at (#3,#4){
+	\node[inner sep=0pt] at (#3,#4) {\includegraphics[scale = #2]{graphics/Verborgenes_System/256/Verborgenes_System_#1}}
+}
+\def\Level[#1,#2] at (#3,#4){
+	\node[inner sep=0pt] at (#3,#4) {\includegraphics[scale = #2]{graphics/Sonstiges/256/#1}}
+}
+\def\Schluesselfigur[#1,#2] at (#3,#4){
+	\node[inner sep=0pt] at (#3,#4) {\includegraphics[scale = #2]{graphics/NSC/256/NSC_Schluesselfigur_0#1}}
+}
+\def\NSC[#1,#2] at (#3,#4){
+	\node[inner sep=0pt] at (#3,#4) {\includegraphics[scale = #2]{graphics/NSC/256/NSC_#1}}
+}
+\def\Pfeil[#1,#2,#3] at (#4,#5){
+	\node[inner sep=0pt] at (#4,#5) {\includegraphics[scale = #3]{graphics/Nummerierung/256/Pfeil_#1/#2}}
+}
+%\cam[sichtbar/verborgen,NIRG,1200-1200,Scale] at (X,Y);
+%\magBarr[Hueter/Biofaser,1-9, Scale] at (X,Y);
+%\MLPad[Stufe,Antimanipulation,Scale] at (X,Y);
+%\MLCard[Stufe,Antimanipulation,Scale] at (X,Y);
+%\MLRFID[Stufe,Antimanipulation,Scale] at (X,Y);
+%\MLDNA[Stufe,Antimanipulation,Scale] at (X,Y);
+%\MLBio[Stufe,Antimanipulation,GRSF,Scale] at (X,Y);
+%\Scanner[Stufe,GMCP,Scale] at (X,Y);
+%\Lock[Stufe,Scale] at (X,Y);
+%\LockT[Stufe,Scale] at (X,Y);
+%\SicherheitV[ad/bm/dg/dp/im/ll/ls/sd,Scale] at (X,Y);
+%\Level[Aufzug/Treppenhaus, Scale] at (X,Y)
+%\Schluesselfigur[level, Scale] at (X,Y)
+%\NSC[drohne/gegner/zivilist/chefgegner, Scale] at (X,Y)
+%\Pfeil[links/oben/rechts/unten,nummer, Scale] at (X,Y)
+\begin{document}
+%	\input{tex/safeHouse}
+%\input{tex/LogistikZentrum}
+\input{tex/LogistikZentrumOG}
+\end{document}
