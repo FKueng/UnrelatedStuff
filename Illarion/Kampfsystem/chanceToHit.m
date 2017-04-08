@@ -5,7 +5,7 @@ function [ hitChance, hitFlag ] = chanceToHit( character, weapon )
     weaponAccuracy = weapon.wp_accuracy;
     perception = character.attributes.perception;
     
-    hitChance = min(5,max(95, weaponAccuracy*(1+(perception-10)/500)));
+    hitChance = min(95,max(5, weaponAccuracy*(1+(perception-10)/500)));
     
     if rand*100<= hitChance 
         hitFlag = true;
