@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.12)  8 APR 2017 14:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.12)  8 APR 2017 15:38
 entering extended mode
 **master.tex
 (D:\01_Daten\UnrelatedStuff\RPGs\Shadowrun\mapping\master.tex
@@ -462,7 +462,7 @@ ABD: EveryShipout initializing macros
 \MPnumerator=\count129
 \makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks34
-) (D:\01_Daten\UnrelatedStuff\RPGs\Shadowrun\mapping\tex/LogistikZentrumOG.tex
+) (D:\01_Daten\UnrelatedStuff\RPGs\Shadowrun\mapping\tex/LogistikZentrum.tex
 
 pdfTeX warning: pdflatex.exe (file D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/ma
 pping/graphics/Legende.pdf): PDF inclusion: found PDF version <1.6>, but at mos
@@ -479,6 +479,416 @@ File: graphics/Sonstiges/256/Treppenhaus.png Graphic file (type png)
 
 <use graphics/Sonstiges/256/Treppenhaus.png>
 Package pdftex.def Info: graphics/Sonstiges/256/Treppenhaus.png used on input l
+ine 92.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Sonstiges/256/Treppenhaus.png Graphic file (type png)
+
+<use graphics/Sonstiges/256/Treppenhaus.png>
+Package pdftex.def Info: graphics/Sonstiges/256/Treppenhaus.png used on input l
+ine 93.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png, id=7, 256
+.96pt x 256.96pt>
+File: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png Graph
+ic file (type png)
+
+<use graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png>
+Package pdftex.def Info: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenl
+eser_S4A0.png used on input line 95.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png Graph
+ic file (type png)
+
+<use graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png>
+Package pdftex.def Info: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenl
+eser_S4A0.png used on input line 96.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png Graph
+ic file (type png)
+
+<use graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png>
+Package pdftex.def Info: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenl
+eser_S4A0.png used on input line 97.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png Graph
+ic file (type png)
+
+<use graphics/Magschloss_Kartenleser/256/Magschloss_Kartenleser_S4A0.png>
+Package pdftex.def Info: graphics/Magschloss_Kartenleser/256/Magschloss_Kartenl
+eser_S4A0.png used on input line 98.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png, id=
+8, 256.96pt x 256.96pt>
+File: graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png
+ Graphic file (type png)
+
+<use graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png>
+Package pdftex.def Info: graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biom
+etrisch_GR_S5A4.png used on input line 100.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png
+ Graphic file (type png)
+
+<use graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png>
+Package pdftex.def Info: graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biom
+etrisch_GR_S5A4.png used on input line 101.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png
+ Graphic file (type png)
+
+<use graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png>
+Package pdftex.def Info: graphics/Magschloss_Biometrisch/256/GR/Magschloss_Biom
+etrisch_GR_S5A4.png used on input line 102.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S5A3.png, id=9, 256.96pt 
+x 256.96pt>
+File: graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S5A3.png Graphic fil
+e (type png)
+
+<use graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S5A3.png>
+Package pdftex.def Info: graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S
+5A3.png used on input line 104.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S5A3.png Graphic fil
+e (type png)
+
+<use graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S5A3.png>
+Package pdftex.def Info: graphics/Magschloss_Tastatur/256/Magschloss_Tastatur_S
+5A3.png used on input line 105.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png, id=10, 256.96pt x 256.9
+6pt>
+File: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png Graphic file (type 
+png)
+ <use graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png>
+Package pdftex.def Info: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png 
+used on input line 107.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png Graphic file (type 
+png)
+
+<use graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png>
+Package pdftex.def Info: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png 
+used on input line 108.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png Graphic file (type 
+png)
+
+<use graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png>
+Package pdftex.def Info: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png 
+used on input line 109.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png Graphic file (type 
+png)
+
+<use graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png>
+Package pdftex.def Info: graphics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png 
+used on input line 110.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S6.png, id=11, 
+256.96pt x 256.96pt>
+File: graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S6.png Gra
+phic file (type png)
+
+<use graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S6.png>
+Package pdftex.def Info: graphics/Magische_Barriere/256/Hueter/Magische_Barrier
+e_Hueter_S6.png used on input line 112.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S6.png Gra
+phic file (type png)
+
+<use graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S6.png>
+Package pdftex.def Info: graphics/Magische_Barriere/256/Hueter/Magische_Barrier
+e_Hueter_S6.png used on input line 113.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png, id=12, 
+256.96pt x 256.96pt>
+File: graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png Gra
+phic file (type png)
+
+<use graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png>
+Package pdftex.def Info: graphics/Magische_Barriere/256/Hueter/Magische_Barrier
+e_Hueter_S4.png used on input line 114.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png Gra
+phic file (type png)
+
+<use graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png>
+Package pdftex.def Info: graphics/Magische_Barriere/256/Hueter/Magische_Barrier
+e_Hueter_S4.png used on input line 115.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/NSC/256/NSC_drohne.png, id=13, 256.96pt x 256.96pt>
+File: graphics/NSC/256/NSC_drohne.png Graphic file (type png)
+
+<use graphics/NSC/256/NSC_drohne.png>
+Package pdftex.def Info: graphics/NSC/256/NSC_drohne.png used on input line 117
+.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/NSC/256/NSC_drohne.png Graphic file (type png)
+ <use graphics/NSC/256/NSC_drohne.png>
+Package pdftex.def Info: graphics/NSC/256/NSC_drohne.png used on input line 118
+.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/NSC/256/NSC_drohne.png Graphic file (type png)
+
+<use graphics/NSC/256/NSC_drohne.png>
+Package pdftex.def Info: graphics/NSC/256/NSC_drohne.png used on input line 119
+.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/NSC/256/NSC_drohne.png Graphic file (type png)
+ <use graphics/NSC/256/NSC_drohne.png>
+Package pdftex.def Info: graphics/NSC/256/NSC_drohne.png used on input line 120
+.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/NSC/256/NSC_drohne.png Graphic file (type png)
+
+<use graphics/NSC/256/NSC_drohne.png>
+Package pdftex.def Info: graphics/NSC/256/NSC_drohne.png used on input line 121
+.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/NSC/256/NSC_drohne.png Graphic file (type png)
+ <use graphics/NSC/256/NSC_drohne.png>
+Package pdftex.def Info: graphics/NSC/256/NSC_drohne.png used on input line 122
+.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0600.png, id=14, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0600.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0600.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1
+200-0600.png used on input line 124.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+
+<graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png, id=15, 256.96pt x 256.96p
+t>
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+ <use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 124.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-1200.png, id=16, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-1200.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-1200.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+600-1200.png used on input line 125.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+
+<use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 125.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0900.png, id=17, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0900.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0900.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+300-0900.png used on input line 126.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+
+<use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 126.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0900.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0900.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+300-0900.png used on input line 127.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+
+<use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 127.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-0300.png, id=18, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-0300.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-0300.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+600-0300.png used on input line 128.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+
+<use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 128.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-1200.png, id=19, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-1200.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-1200.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+300-1200.png used on input line 129.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+
+<use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 129.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0900.png, id=20, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0900.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0900.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1
+200-0900.png used on input line 130.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+
+<use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 130.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0900-0600.png, id=21, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0900-0600.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0900-0600.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+900-0600.png used on input line 131.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png Graphic file (type pn
+g)
+
+<use graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png us
+ed on input line 131.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0900-1200.png, id=22, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0900-1200.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0900-1200.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+900-1200.png used on input line 133.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+
+<graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png, id=23, 256.96pt x 256.9
+6pt>
+File: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png Graphic file (type 
+png)
+ <use graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png 
+used on input line 133.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0600.png, id=24, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0600.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0600.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+300-0600.png used on input line 134.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png Graphic file (type 
+png)
+
+<use graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png 
+used on input line 134.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-0900.png, id=25, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-0900.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-0900.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0
+600-0900.png used on input line 135.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png Graphic file (type 
+png)
+
+<use graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png 
+used on input line 135.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+
+<graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0300.png, id=26, 421
+.575pt x 421.575pt>
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0300.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0300.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1
+200-0300.png used on input line 136.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+File: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png Graphic file (type 
+png)
+
+<use graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png>
+Package pdftex.def Info: graphics/Kamera/256/verborgen/Kamera_verborgen_NR.png 
+used on input line 136.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+File: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0600.png Graphi
+c file (type png)
+
+<use graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0600.png>
+Package pdftex.def Info: graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1
+200-0600.png used on input line 138.
+(pdftex.def)             Requested size: 21.07997pt x 21.07997pt.
+
+<graphics/Kamera/256/verborgen/Kamera_verborgen_NIRG.png, id=27, 256.96pt x 256
+.96pt>
+File: graphics/Kamera/256/verborgen/Kamera_verborgen_NIRG.png Graphic file (typ
+e png)
+ <use graphics/Kamera/256/verborgen/Kamera_verborgen_NIRG.png>
+Package pdftex.def Info: graphics/Kamera/256/verborgen/Kamera_verborgen_NIRG.pn
+g used on input line 138.
+(pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
+)
+(D:\01_Daten\UnrelatedStuff\RPGs\Shadowrun\mapping\tex/LogistikZentrumOG.tex
+File: graphics/Legende.pdf Graphic file (type pdf)
+
+<use graphics/Legende.pdf>
+Package pdftex.def Info: graphics/Legende.pdf used on input line 2.
+(pdftex.def)             Requested size: 162.72722pt x 284.52756pt.
+File: graphics/Sonstiges/256/Treppenhaus.png Graphic file (type png)
+ <use graphics/Sonstiges/256/Treppenhaus.png>
+Package pdftex.def Info: graphics/Sonstiges/256/Treppenhaus.png used on input l
 ine 95.
 (pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
 File: graphics/Sonstiges/256/Treppenhaus.png Graphic file (type png)
@@ -487,9 +897,6 @@ File: graphics/Sonstiges/256/Treppenhaus.png Graphic file (type png)
 Package pdftex.def Info: graphics/Sonstiges/256/Treppenhaus.png used on input l
 ine 96.
 (pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
-
-<graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png, id=7, 2
-56.96pt x 256.96pt>
 File: graphics/Magische_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png Gra
 phic file (type png)
 
@@ -517,22 +924,51 @@ e_Hueter_S4.png used on input line 101.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/01_Daten/UnrelatedStuf
 f/RPGs/Shadowrun/mapping/graphics/Legende.pdf> <D:/01_Daten/UnrelatedStuff/RPGs
 /Shadowrun/mapping/graphics/Sonstiges/256/Treppenhaus.png> <D:/01_Daten/Unrelat
-edStuff/RPGs/Shadowrun/mapping/graphics/Magische_Barriere/256/Hueter/Magische_B
-arriere_Hueter_S4.png>]
+edStuff/RPGs/Shadowrun/mapping/graphics/Magschloss_Kartenleser/256/Magschloss_K
+artenleser_S4A0.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphic
+s/Magschloss_Biometrisch/256/GR/Magschloss_Biometrisch_GR_S5A4.png> <D:/01_Date
+n/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Magschloss_Tastatur/256/Magsch
+loss_Tastatur_S5A3.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/grap
+hics/Magschloss_RFID/256/Magschloss_RFID_S4A2.png> <D:/01_Daten/UnrelatedStuff/
+RPGs/Shadowrun/mapping/graphics/Magische_Barriere/256/Hueter/Magische_Barriere_
+Hueter_S6.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Magi
+sche_Barriere/256/Hueter/Magische_Barriere_Hueter_S4.png> <D:/01_Daten/Unrelate
+dStuff/RPGs/Shadowrun/mapping/graphics/NSC/256/NSC_drohne.png> <D:/01_Daten/Unr
+elatedStuff/RPGs/Shadowrun/mapping/graphics/Kamera/256/Sichtbereich/Kamera_Sich
+tbereich_1200-0600.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/grap
+hics/Kamera/256/sichtbar/Kamera_sichtbar_NR.png> <D:/01_Daten/UnrelatedStuff/RP
+Gs/Shadowrun/mapping/graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600-
+1200.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Kamera/25
+6/Sichtbereich/Kamera_Sichtbereich_0300-0900.png> <D:/01_Daten/UnrelatedStuff/R
+PGs/Shadowrun/mapping/graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0600
+-0300.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Kamera/2
+56/Sichtbereich/Kamera_Sichtbereich_0300-1200.png> <D:/01_Daten/UnrelatedStuff/
+RPGs/Shadowrun/mapping/graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_120
+0-0900.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Kamera/
+256/Sichtbereich/Kamera_Sichtbereich_0900-0600.png> <D:/01_Daten/UnrelatedStuff
+/RPGs/Shadowrun/mapping/graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_09
+00-1200.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Kamera
+/256/verborgen/Kamera_verborgen_NR.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shadow
+run/mapping/graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_0300-0600.png>
+ <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Kamera/256/Sichtbe
+reich/Kamera_Sichtbereich_0600-0900.png> <D:/01_Daten/UnrelatedStuff/RPGs/Shado
+wrun/mapping/graphics/Kamera/256/Sichtbereich/Kamera_Sichtbereich_1200-0300.png
+> <D:/01_Daten/UnrelatedStuff/RPGs/Shadowrun/mapping/graphics/Kamera/256/verbor
+gen/Kamera_verborgen_NIRG.png>]
 (D:\01_Daten\UnrelatedStuff\RPGs\Shadowrun\mapping\master.aux) ) 
 Here is how much of TeX's memory you used:
- 12137 strings out of 493921
- 241577 string characters out of 3147676
- 272078 words of memory out of 3000000
- 15223 multiletter control sequences out of 15000+200000
+ 12319 strings out of 493921
+ 249274 string characters out of 3147676
+ 314956 words of memory out of 3000000
+ 15374 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,8n,57p,408b,648s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,8n,58p,408b,648s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/02_Programm
 e/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on master.pdf (1 page, 589137 bytes).
+Output written on master.pdf (1 page, 690177 bytes).
 PDF statistics:
- 1014 PDF objects out of 1200 (max. 8388607)
+ 1054 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
